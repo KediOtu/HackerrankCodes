@@ -13,6 +13,17 @@ There are an unknown group of families consisting of k members per group (where 
 
 ---------------------------------------------------------------------------------
 
+
+## -> find-mbc-angle.py
+
+![alt text](https://s3.amazonaws.com/hr-challenge-images/9668/1440151155-10b2b748ee-rsz_1438840048-2cf71ed69d-findangle.png)
+
+Input format: The first line contains the length of side AB. The second line contains the length of side BC.
+
+Output format: Output the angle MBC in degrees. (Note: Round the angle to the nearest integer.)
+
+---------------------------------------------------------------------------------
+
 ## -> hex-oct-dec-bin.py
 
 It gets an input (an integer). Then writes the hexadecimal, octal, decimal and binary forms of all the numbers until input number (including input number).
@@ -22,15 +33,5 @@ It gets an input (an integer). Then writes the hexadecimal, octal, decimal and b
 ## -> set-operations.py
 
 The code gets an input as a set of numbers (we create a set object with them). Then it allows user to do specific number of operations. Operations are 'pop', 'remove', 'discard'. These are some of the set object methods.
-
----------------------------------------------------------------------------------
-
-## -> find-mbc-angle.py
-
-![alt text](https://s3.amazonaws.com/hr-challenge-images/9668/1440151155-10b2b748ee-rsz_1438840048-2cf71ed69d-findangle.png)
-
-Input format: The first line contains the length of side AB. The second line contains the length of side BC.
-
-Output format: Output the angle MBC in degrees. (Note: Round the angle to the nearest integer.)
 
 ---------------------------------------------------------------------------------
