@@ -1,6 +1,6 @@
 # ||**Some of My Hackerrank Codes**||
 
-<h3> I write at least one code on Hackerrank everyday. Sometimes I love how efficiently my code is. These are my best codes (in my opinion :upside_down_face: ).
+<h3> I write at least one code on Hackerrank everyday. Sometimes I think the code I wrote is very effective and good. These are my best codes (in my opinion :upside_down_face: ).
 When i upload a code i will update the readme file and add a description of the code. The descriptions are below. </h3>
 
 ---------------------------------------------------------------------------------
